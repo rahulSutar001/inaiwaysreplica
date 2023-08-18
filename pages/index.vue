@@ -67,7 +67,7 @@
 
         <div class="text-center py-20 ">
 
-            <h1 class="text-5xl my-5"> <span class="font-extrabold">We capture</span> <span class="font-thin">200+ Google
+            <h1 class="md:text-5xl sm:text-3xl text-3xl my-5"> <span class="font-extrabold">We capture</span> <span class="font-thin">200+ Google
                     Ads Paramenters</span> <br>
                 <span class="font-extrabold">for your business</span>
             </h1>

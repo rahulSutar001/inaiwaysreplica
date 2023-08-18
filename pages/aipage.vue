@@ -104,7 +104,7 @@
 
 
         <!-- below is the main div that contains two child div's  -->
-        <div class=" my-5 py-10 px-5 sm:py-5 ">
+        <div class=" px-32 my-5 py-10  sm:py-5 bg-slate-100">
 
             <div class="md:w-6/12 sm:w-8/12 w-full my-5 sm:my-0"> 
                 <p class="font-extralight text-purple-500 text-sm">BUSINESS STUDIO AI PRODUCTS</p>
@@ -203,7 +203,7 @@
 
         </div>
 
-        <formandDetalis />
+        <formandDetalis kkk="" />
 
         <div>
             <Footer />
